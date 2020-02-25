@@ -1,0 +1,19 @@
+{
+  "name": "ubiquitous-palm-server",
+  "version": "1.0.0",
+  "description": "get all the good stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajarog/probable-broccoli.git"
+  },
+  "author": "late&roge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajarog/probable-broccoli/issues"
+  },
+  "homepage": "https://github.com/rajarog/probable-broccoli#readme"
+}
